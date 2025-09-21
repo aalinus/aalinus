@@ -2,7 +2,9 @@
 
 ![9befba4c6a2004be4c8a2e16e825f9d0](https://github.com/user-attachments/assets/7c49d5c4-0795-4f1d-bfc8-47c5ffd80b24)
 
-
-(https://github.com/user-attachments/files/22452425/Pandera.-.In.My.Dreams.Freestyle.Project.remix.mp3cut.net.mp3)
-
+<script>
+    var audio = new Audio('https://github.com/user/project/blob/main/audio/[Pandera - In My Dreams (Freestyle Project remix) (mp3cut.net).mp3](https://github.com/user-attachments/files/22452444/Pandera.-.In.My.Dreams.Freestyle.Project.remix.mp3cut.net.mp3)
+.mp3?raw=true');
+    audio.play();
+</script>
 
