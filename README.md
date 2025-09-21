@@ -5,8 +5,8 @@
 
 <p>Pandera - In My Dreams</p>
 <audio controls autoplay muted loop>  
-    <source src="Pandera - In My Dreams (mp3cut.net).mp3"> type="audio/mpeg">
-    <source src="Pandera - In My Dreams (mp3cut.net).wav"> type="audio/wav">
+    <source src="Pandera - In My Dreams (mp3cut.net).mp3">
+    <source src="Pandera - In My Dreams (mp3cut.net).wav">
 </audio>
 
 
