@@ -1,4 +1,4 @@
-### I have no idea what I'm doing ![](https://komarev.com/ghpvc/?username=your-github-aalinus&style=for-the-badge&color=blueviolet&label=gang)
+### I have no idea what I'm doing ![](https://komarev.com/ghpvc/?username=your-github-aalinus&style=for-the-badge&color=orange&label=gang)
 
 ℍ𝕚𝕚. 𝕀 𝕃𝕆𝕍𝔼 𝕞𝕦𝕤𝕚𝕔, 𝕀 𝕝𝕚𝕤𝕥𝕖𝕟 𝕥𝕠 𝕒 𝕧𝕒𝕣𝕚𝕖𝕥𝕪 𝕠𝕗 𝕘𝕖𝕟𝕣𝕖𝕤, 𝕀 𝕔𝕠𝕦𝕝𝕕𝕟'𝕥 𝕤𝕒𝕪 𝕀 𝕙𝕒𝕧𝕖 𝕒 𝕗𝕒𝕧𝕠𝕦𝕣𝕚𝕥𝕖 𝕥𝕙𝕠𝕦𝕘𝕙 
 𝕀𝕗 𝕪𝕠𝕦 𝕝𝕚𝕜𝕖 𝕒𝕟𝕪 𝕠𝕗 𝕥𝕙𝕖𝕤𝕖 𝕞𝕒𝕣𝕣𝕪 𝕞𝕖<333333: 
