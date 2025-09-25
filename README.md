@@ -6,9 +6,6 @@
 ℂ𝕣𝕪 𝕠𝕗 𝔽𝕖𝕒𝕣, 𝕋𝕃𝕆𝕌, ℍ𝕒𝕝𝕗-𝕃𝕚𝕗𝕖, 𝕊𝕒𝕝𝕝𝕪 𝔽𝕒𝕔𝕖, 𝔽𝕣𝕒𝕟𝔹𝕠𝕨, 𝔻𝔹𝔻, 𝔸𝕗𝕣𝕒𝕚𝕕 𝕠𝕗 𝕄𝕠𝕟𝕤𝕥𝕖𝕣𝕤, 𝔸𝕣𝕜𝕙𝕒𝕞 𝕂𝕟𝕚𝕘𝕙𝕥𝕤/ℝ𝔻ℝ(𝕡𝕝𝕒𝕟 𝕠𝕟 𝕡𝕝𝕒𝕪𝕚𝕟𝕘)
 ![](https://komarev.com/ghpvc/?username=your-github-aalinus&style=for-the-badge&color=blueviolet&label=gang)
 
-![tumblr_mrp9f5EwyJ1sppmago1_500](https://github.com/user-attachments/assets/258841bc-b4e8-43b1-bb6d-1ad86a4c83d8)
-
-
 
 
 
