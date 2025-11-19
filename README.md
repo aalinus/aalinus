@@ -6,6 +6,8 @@
 <p align="center">
     <img width="728" height="489" alt="The-Last-Of-Us-PNG-Image-HD" src="https://github.com/user-attachments/assets/1bba0c4a-4f64-4583-9792-1afbd460032b" />
 </p>
+<img width="900" height="61" alt="image" src="https://github.com/user-attachments/assets/e6582da5-f838-4275-9d09-b634bc918dd8" />
+
 <h1 align="center">𝕀𝕗 𝕪𝕠𝕦 𝕝𝕚𝕜𝕖 𝕒𝕟𝕪 𝕠𝕗 𝕥𝕙𝕖𝕤𝕖 𝕞𝕒𝕣𝕣𝕪 𝕞𝕖:</h1>
 
 ### 𝕂𝕄𝔽𝔻𝕄, 𝔸𝕊ℍ𝔹𝕌ℝ𝕐 ℍ𝔼𝕀𝔾ℍ𝕋𝕊, 𝕋ℍ𝔼 ℙℝ𝕆𝔻𝕀𝔾𝕐, 𝕎ℍ𝕀𝕋𝔼𝕊ℕ𝔸𝕂𝔼, 𝕆𝕆𝕄ℙℍ, 𝕊𝕃𝕀ℙ𝕂ℕ𝕆𝕋, 𝕄𝕌𝕊𝕀ℂ 𝕀ℕ𝕊𝕋ℝ𝕌ℂ𝕋𝕆ℝ, 𝔽ℝ𝔼𝔼𝕊𝕋𝕐𝕃𝔼 ℙ𝕆ℝ𝕁𝔼ℂ𝕋, 𝕄𝕆𝔻𝔼ℝℕ 𝕋𝔸𝕃𝕂𝕀ℕ𝔾, ℍ𝕀𝕄. 
