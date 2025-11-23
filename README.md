@@ -3,7 +3,7 @@
 
  ![](https://komarev.com/ghpvc/?username=your-github-aalinus&style=for-the-badge&color=orange&&label=people-curious-enough-to-view-page)
  <p align="center">
-<img width="411" height="28" alt="image" src="https://github.com/user-attachments/assets/3b2f90ac-9889-4a20-af3b-c84a5128efcc" />  
+
 
  </p>
 <p align="center">
