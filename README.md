@@ -5,10 +5,12 @@
  <p align="center">
 
 
- </p>
-<p align="center">
-    <img width="728" height="489" alt="The-Last-Of-Us-PNG-Image-HD" src="https://github.com/user-attachments/assets/1bba0c4a-4f64-4583-9792-1afbd460032b" />
-</p>
+
+<p align="center"> 
+ 
+<img src="https://github.com/user-attachments/assets/c620128a-0fd0-4fec-a831-5dae25b04d4c" />
+
+
 
 <p align="center">
 <img width="900" height="61" alt="image" src="https://github.com/user-attachments/assets/e6582da5-f838-4275-9d09-b634bc918dd8" />
