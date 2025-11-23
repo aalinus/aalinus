@@ -22,9 +22,12 @@
 <p align="center"> 
  <ins>𝔹𝕠𝕠𝕜𝕤</ins>:𝟙𝟡𝟠𝟜, 𝕋𝕙𝕖 𝕊𝕙𝕚𝕟𝕚𝕟𝕘, ℕ𝕚𝕘𝕙𝕥𝔽𝕝𝕪𝕖𝕣𝕤
 <p align="center"> 
-<ins>𝕀 𝕡𝕠𝕤𝕥 𝕤𝕥𝕦𝕗𝕗 𝕀 𝕕𝕣𝕒𝕨 𝕙𝕖𝕣𝕖 (𝕤𝕠𝕞𝕖𝕥𝕚𝕞𝕖𝕤)</ins>
+<ins>𝕀 𝕡𝕠𝕤𝕥 𝕤𝕥𝕦𝕗𝕗 𝕀 𝕕𝕣𝕒𝕨 𝕙𝕖𝕣𝕖 (𝕤𝕠𝕞𝕖𝕥𝕚𝕞𝕖𝕤)</ins>   
+ 
+[instagram](https://www.instagram.com/sketchx_84)
 
-<https://www.instagram.com/sketchx_84?igsh=Zjl4ZWhrY3FmOXdy>
+
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
