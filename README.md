@@ -24,8 +24,9 @@
 <p align="center"> 
 <ins>𝕀 𝕡𝕠𝕤𝕥 𝕤𝕥𝕦𝕗𝕗 𝕀 𝕕𝕣𝕒𝕨 𝕙𝕖𝕣𝕖 (𝕤𝕠𝕞𝕖𝕥𝕚𝕞𝕖𝕤)</ins>   
  
-[instagram](https://www.instagram.com/sketchx_84)
+➴➵➶➴➵➶➴➵➶➴➵➶➴➵➶➴➵➶➴➵➶➴➵➵➶➴➵➶ :･ [instagram](https://www.instagram.com/sketchx_84)]
 
+ 
 
 
 
