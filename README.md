@@ -2,10 +2,15 @@
  <img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/d5858bfc-3a3f-46b6-97bb-c9440066b48b" />
 
  ![](https://komarev.com/ghpvc/?username=your-github-aalinus&style=for-the-badge&color=orange&label=people-curious-enough-to-view-page)
+ 
+<img width="411" height="28" alt="image" src="https://github.com/user-attachments/assets/3b2f90ac-9889-4a20-af3b-c84a5128efcc" />  
+
  </p>
 <p align="center">
     <img width="728" height="489" alt="The-Last-Of-Us-PNG-Image-HD" src="https://github.com/user-attachments/assets/1bba0c4a-4f64-4583-9792-1afbd460032b" />
 </p>
+
+
 <img width="900" height="61" alt="image" src="https://github.com/user-attachments/assets/e6582da5-f838-4275-9d09-b634bc918dd8" />
 
 <h1 align="center">𝕀𝕗 𝕪𝕠𝕦 𝕝𝕚𝕜𝕖 𝕒𝕟𝕪 𝕠𝕗 𝕥𝕙𝕖𝕤𝕖 𝕞𝕒𝕣𝕣𝕪 𝕞𝕖:</h1>
@@ -21,5 +26,10 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1y1se75rczjdblikxczezpof9&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=c7c7c7)](https://github.com/kittinan/spotify-github-profile)">
 </p>
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/af1d2d88-9d2c-482c-946d-efb7cf95f6b2" />
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/6bbbc83a-5752-4f46-ada7-d1563e28ffb3" />
+<img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/ab00364a-7484-4007-9c65-3652e373e0f6" />
+<img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/09486b8b-7bab-4ac3-8772-1c9072a5763b" />
 
 <img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/f11e62cf-51a5-428b-9515-ab4e70fc8cb9" />
+
