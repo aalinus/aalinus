@@ -5,10 +5,8 @@
  <p align="center">
 
 
+<img width="500" height="300" alt="17862984031662161513265396222629" src="https://github.com/user-attachments/assets/a2a7958c-a9a4-421d-a0e3-6427e95b4f03" />
 
-<p align="center"> 
- 
-<img src="https://github.com/user-attachments/assets/c620128a-0fd0-4fec-a831-5dae25b04d4c" />
 
 
 
